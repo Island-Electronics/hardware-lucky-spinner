@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Arduino build outputs
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.lst
